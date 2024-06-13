@@ -1,0 +1,33 @@
+{
+  "name": "movie-rate",
+  "version": "1.0.0",
+  "description": "backend for movie-rate app",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cubewebs/movie-rate.git"
+  },
+  "keywords": [
+    "movie",
+    "movie",
+    "rate",
+    "rate",
+    "a",
+    "movie",
+    "movie",
+    "rating",
+    "movie",
+    "score",
+    "movie",
+    "reviews"
+  ],
+  "author": "Juan Jose Aos Rivera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cubewebs/movie-rate/issues"
+  },
+  "homepage": "https://github.com/cubewebs/movie-rate#readme"
+}
